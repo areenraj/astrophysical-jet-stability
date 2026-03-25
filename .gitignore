@@ -1,0 +1,8 @@
+*.dat
+*.txt
+*.DS_Store
+*.par
+
+jetFolder/legolas
+jetFolder/build
+
